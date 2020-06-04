@@ -17,3 +17,4 @@ Project is about making a list of students with marks in diffeent subjects.
 * The program can compare 2 students by an average mark
 
 ## Repo
+https://github.com/annapetrova947/List_of_students
