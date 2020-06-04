@@ -66,35 +66,5 @@ public class Main {
             }
         }
 
-
-
-
-
-
-
-//        List<Integer> list = new ArrayList<>();
-//        for (int i = 0; i < 1000; i++) {
-//            list.add(i);
-//        }
-//
-//        try {
-        //сериализация списка list
-//            ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("src\\data\\students.txt"));
-//            oos.writeObject(list);
-//            oos.close();
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-
-//        List<Integer> list=null;
-//        try {
-        //десериализация списка list (считывание из файла и преобразование в объект)
-//            ObjectInputStream ois = new ObjectInputStream(new FileInputStream("src\\data\\students.txt"));
-//            list = (List<Integer>)ois.readObject();
-//            ois.close();
-//        } catch (Exception e) {
-//            e.printStackTrace();
-//        }
-//        System.out.println(list);
     }
 }
